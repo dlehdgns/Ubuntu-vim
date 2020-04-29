@@ -1,0 +1,2 @@
+# Ubuntu-vim
+vim setting
